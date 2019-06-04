@@ -1,9 +1,9 @@
 {
-        "install" :"/net/eichler/vol8/home/zevk/tools/smartie-sv",
+        "install" :"/lustre/home/liuhui/project/buzzo/smartie-sv",
         "targets" : {
-                  "hg38" : "hg38-chr19_39.4_39.8.fa"
+                  "hg38" : "../example/target.fa"
                   },
         "queries" : {
-                 "gorilla"   : "../example/000943F_quiver_patched.fa_0.5_0.9.fa"
+                 "gorilla"   : "../example/query.fa"
            },
 }
