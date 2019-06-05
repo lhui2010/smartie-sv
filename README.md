@@ -7,6 +7,7 @@ Have contigs and a reference genome? Smartie-sv will align query contigs against
 1. Anaconda
 2. Snakemake
 3. Bedtools
+4. hdf5-1.8.18
 
 ### Running
 
